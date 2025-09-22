@@ -42,12 +42,13 @@ Scripts para automação de infraestrutura AWS com foco em:
 - **Infrastructure as Code** com Terraform
 - **CI/CD** com GitHub Actions
 - **Kubernetes** para orquestração de containers
+- **Airflow** plataforma de orquestração de fluxos de trabalho (workflows) 
 
 ## 📈 Objetivos 2025
-- [ ] Certificação AWS Solutions Architect
-- [ ] Contribuir para projetos open source
+- [ ] Certificação AWS Cloud Practitioner
 - [ ] Criar mais automações com Terraform
 - [ ] Desenvolver pipelines CI/CD completos
+- [ ] Migrar para a área de Engenharia de Dados
 
 ## 🤝 Vamos nos conectar!
 

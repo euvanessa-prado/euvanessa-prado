@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Vanessa
+# 👋 Olá! Seja bem-vindo
 
 ## 🚀 Sobre mim
 Sou apaixonada por **Cloud Computing** e **Automação de Infraestrutura**, com foco em **AWS**. Adoro transformar processos manuais em soluções automatizadas e eficientes!
@@ -54,9 +54,6 @@ Scripts para automação de infraestrutura AWS com foco em:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessa.aida)
 
-
-## 💡 Frase que me inspira
-> *"A automação não é sobre substituir pessoas, é sobre liberar o potencial humano para coisas mais importantes."*
 
 ---
 

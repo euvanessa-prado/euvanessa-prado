@@ -99,7 +99,7 @@ Scripts e automações voltadas à criação e configuração de infraestrutura 
 ---
 
 ## 🤝 Vamos nos conectar!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessa.aida)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euvanessa-prado)
 
 ---
 

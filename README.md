@@ -1,7 +1,7 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil  
 
 ## 🚀 Sobre mim  
-Sou uma profissional apaixonada por **Engenharia de Dados e Cloud Computing**, com foco em criar soluções **escaláveis, governáveis e de alta performance**.  
+Sou uma profissional entusiasmada por **Engenharia de Dados e Cloud Computing**, com foco em criar soluções **escaláveis, governáveis e de alta performance**.  
 Atuo construindo pipelines de dados modernos, automatizando infraestrutura na nuvem e aplicando boas práticas de **DataOps, DevOps e Arquitetura orientada a dados**.
 
 💡 Tenho experiência com **AWS**, **Databricks**, **Governança com Unity Catalog**, **pipelines SQL/ETL**, além de um forte interesse em automação com **Terraform**, **Airflow**, **GitHub Actions**, **Docker** e **Kubernetes**.

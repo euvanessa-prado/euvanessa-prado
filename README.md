@@ -1,137 +1,171 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil  
+# 👋 Vanessa Prado | Data Engineer & Cloud Architect
 
-## 🚀 Sobre mim  
-Sou uma profissional entusiasmada por **Engenharia de Dados e Cloud Computing**, com foco em criar soluções **escaláveis, governáveis e de alta performance**.  
-Atuo construindo pipelines de dados modernos, automatizando infraestrutura na nuvem e aplicando boas práticas de **DataOps, DevOps e Arquitetura orientada a dados**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-aida/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vanessapradoaws/)
+[![AWS Certified](https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
 
-💡 Me aperfeiçoando em **AWS**, **Databricks**, **Governança com Unity Catalog**, **pipelines SQL/ETL**, além de um forte interesse em automação com **Terraform**, **Airflow**, **GitHub Actions**, **Docker** e **Kubernetes**.
+## 🎯 About Me
+
+Data Engineer specializing in **cloud-native data platforms** and **modern data architectures**. I build scalable, governed, and high-performance data pipelines using AWS, Databricks, and modern DataOps practices.
+
+🔹 **Focus Areas:** Data Engineering | Cloud Computing | Data Governance | ETL/ELT Pipelines  
+🔹 **Current Stack:** AWS • Databricks • Unity Catalog • Delta Lake • PySpark • Terraform  
+🔹 **Location:** Brasil 🇧🇷 | Remote Work
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
-### ☁️ Cloud & Data Platforms  
+### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white)
-![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A9EDC?style=for-the-badge&logo=deltalake&logoColor=white)
 
-### 🧱 Engenharia de Dados  
-![ETL](https://img.shields.io/badge/ETL/ELT-5c5c5c?style=for-the-badge)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📊 Data Engineering
 ![PySpark](https://img.shields.io/badge/PySpark-e25a1c.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A9EDC?style=for-the-badge&logo=deltalake&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🐳 DevOps & Automação  
+### 🏗️ Infrastructure & DevOps
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 🛠️ Linguagens & Scripts  
+### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-ffffff?style=for-the-badge&logo=yaml&logoColor=151515)
 
 ---
 
-## 📊 Estatísticas GitHub  
+## 🚀 Featured Projects
+
+### 📦 [Data Ingestion with Lakeflow Connect](https://github.com/euvanessa-prado/data_ingestion_lakeflow_connect)
+**Modern data ingestion pipeline using Databricks Auto Loader**
+
+- ✅ Medallion Architecture (Bronze → Silver → Gold)
+- ✅ Streaming ingestion with Auto Loader
+- ✅ Schema evolution and data governance
+- ✅ Unity Catalog integration
+
+**Stack:** `Databricks` • `Delta Lake` • `Auto Loader` • `Unity Catalog` • `PySpark`
+
+---
+
+### 🏛️ [Unity Catalog - Data Governance](https://github.com/euvanessa-prado/unity_catalog_databricks)
+**Enterprise data governance with Unity Catalog**
+
+- ✅ Centralized data governance and access control
+- ✅ Medallion architecture implementation
+- ✅ ML model management with MLflow
+- ✅ Image classification with PyTorch
+- ✅ UDFs, Volumes, and Schema management
+
+**Stack:** `Unity Catalog` • `Delta Lake` • `MLflow` • `PyTorch` • `PySpark`
+
+---
+
+### ☁️ [AWS Infrastructure Automation](https://github.com/euvanessa-prado/amazonq-cli)
+**Cloud infrastructure automation and provisioning**
+
+- ✅ EC2 instance automation
+- ✅ VPC, subnets, and security groups configuration
+- ✅ S3 bucket management
+- ✅ Infrastructure as Code practices
+
+**Stack:** `AWS CLI` • `Terraform` • `Bash` • `EC2` • `VPC` • `S3`
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-
-![Vanessa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=euvanessa-prado&show_icons=true&theme=radical&hide_border=true&border_radius=10)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euvanessa-prado&layout=compact&theme=radical&hide_border=true&border_radius=10)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euvanessa-prado&show_icons=true&theme=radical&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvanessa-prado&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
 </div>
 
 ---
 
-## ⭐ Projetos em Destaque  
+## 🎓 Certifications
 
-### 🔶 **Arquitetura Medallion com Unity Catalog (Databricks)**
-🔗 https://github.com/euvanessa-prado/unity_catalog_databricks  
-
-**Destaques:**
-- Governança de dados centralizada com **Unity Catalog**  
-- Arquitetura Medallion (Bronze → Silver → Gold)  
-- Processamento com **Delta Lake**, funções UDF, volumes e schemas  
-- Classificação de imagens com **PyTorch + MLflow**  
-- Organização e versionamento de modelos no catálogo  
-
-**Stack:** `Databricks` • `PySpark` • `Delta Lake` • `MLflow` • `Unity Catalog`
-
----
-
-### ☁️ **Automação AWS para Infraestrutura e Pipelines**
-🔗 https://github.com/euvanessa-prado/amazonq-cli  
-
-**Inclui:**
-- Criação automática de EC2  
-- Configuração de VPC, sub-redes, security groups  
-- Automação de buckets S3  
-- Integração com Docker e scripts Bash  
-
-**Stack:** `AWS CLI` • `Terraform (início)` • `Bash` • `EC2` • `VPC` • `S3`
-
----
-
-### 📦 Pipelines de Dados – SQL & Oracle  
-🔗 (adicione o link quando quiser)  
-
-**Trabalhos realizados:**
-- Modelagem lógica e física  
-- Otimização de queries complexas (CTEs, particionamento, joins pesados)  
-- Pipelines financeiros e análises de sinistralidade  
-- Integração Oracle ↔ Databricks  
-
----
-
-## 🌱 Atualmente estudando  
-- 🧱 **Databricks** — performance, governança e arquitetura com Unity Catalog  
-- 🔁 **Apache Airflow** — orquestração de pipelines de dados  
-- ☁️ **Arquitetura AWS Multi-Region**  
-- 🏗️ **Terraform** — infraestrutura como código  
-- 🤖 **Amazon Q Developer** — IA aplicada ao desenvolvimento
-
-
----
-
-## 🏅 Certificações  
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-%23FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-🎉 **AWS Cloud Practitioner concluída com sucesso!**
+---
+
+## 🌱 Currently Learning
+
+- 🔄 **Apache Airflow** — Data pipeline orchestration
+- 🏗️ **Terraform** — Infrastructure as Code
+- ☁️ **AWS Multi-Region Architecture** — Distributed systems
+- 🤖 **Amazon Q Developer** — AI-powered development
+- 📊 **Data Quality & Observability** — Great Expectations, Monte Carlo
 
 ---
 
-## 🎯 Objetivos 2025  
-- Criar pipelines completos e automatizados com **Airflow + Terraform + AWS**  
-- Aprimorar arquiteturas de dados distribuídas e multi-região  
-- Aprofundar em **Delta Lake**, **governança**, **catalogação** e **Data Quality**  
-- Evoluir profissionalmente como **Engenheira de Dados Cloud**  
+## 💼 Core Competencies
+
+```python
+skills = {
+    "data_engineering": [
+        "ETL/ELT Pipeline Design",
+        "Data Modeling (Star Schema, Snowflake)",
+        "Batch & Streaming Processing",
+        "Data Quality & Validation"
+    ],
+    "cloud_computing": [
+        "AWS Services (S3, EC2, Lambda, Glue)",
+        "Databricks Platform",
+        "Infrastructure as Code",
+        "Cost Optimization"
+    ],
+    "data_governance": [
+        "Unity Catalog",
+        "Access Control & Security",
+        "Data Lineage",
+        "Metadata Management"
+    ],
+    "devops": [
+        "CI/CD Pipelines",
+        "Docker Containerization",
+        "GitHub Actions",
+        "Terraform Automation"
+    ]
+}
+```
 
 ---
 
-## 📈 Gráfico de Contribuições  
+## 🎯 2025 Goals
+
+- [ ] Build end-to-end data platform with Airflow + Terraform + AWS
+- [ ] Implement real-time streaming pipelines with Kafka
+- [ ] Achieve AWS Solutions Architect certification
+- [ ] Contribute to open-source data engineering projects
+- [ ] Master distributed data architectures
+
+---
+
+## 📊 Activity Graph
+
+[![Vanessa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euvanessa-prado&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to discussing data engineering, cloud architecture, and collaboration opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanessa-aida/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@vanessapradoaws/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessapradoaws@gmail.com)
+
+---
+
 <div align="center">
-
-[![Vanessa’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=euvanessa-prado&bg_color=0d1117&color=ff4d6d&line=ff4d6d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=euvanessa-prado&color=ff69b4&style=for-the-badge)
+  
+  ⭐ **If you find my projects useful, please consider giving them a star!**
+  
 </div>
-
----
-
-## 🌍 Visualizações de Perfil  
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=euvanessa-prado&color=ff69b4&style=for-the-badge)
-
-</div>
-
----
-
-## 🤝 Vamos nos conectar!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-aida/)
-
----
-
-⭐ Se curtir meus projetos, **deixe uma estrela** — isso me ajuda muito!
-

@@ -1,4 +1,4 @@
-# Data Engineer | AWS & Cloud Specialist | ETL/ELT Expert
+# Data Engineer | AWS & Cloud | ETL/ELT 
 
 Hello there! I'm a data engineer dedicated to transforming complex data into actionable insights. With a focus on AWS services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 

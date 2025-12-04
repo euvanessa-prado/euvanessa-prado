@@ -1,7 +1,9 @@
 # Data Engineer | AWS & Cloud | ETL/ELT 
 
-Hello there! I'm a data engineer dedicated to transforming complex data into actionable insights. With a focus on AWS services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
+Hello there! I'm a data engineer focused on transforming complex data into reliable, high-impact solutions. I work on building efficient pipelines, organizing data ecosystems, and turning raw information into insights that truly support business decisions.
+
+Se quiser, posso continuar o parágrafo, deixar mais técnico, mais senior ou mais “recrutador-friendly”.
 - **Programming Languages**: Python, SQL, Bash
 - **Cloud Platforms**: AWS
 - **AWS Services**: S3, Glue, Lambda, Redshift, EMR, Athena

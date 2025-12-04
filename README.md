@@ -1,25 +1,17 @@
 # Data Engineer | AWS & Cloud Specialist | ETL/ELT Expert
 
-I am a data professional with over **8 years of experience** in analyzing, structuring, and building robust ETL/ELT pipelines, consistent data models, and environments capable of transforming complex information into real business value.
+Hello there! I'm a data engineer dedicated to transforming complex data into actionable insights. With a focus on AWS services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
-🏅 **Certification**: AWS Certified Cloud Practitioner
-
-I am currently deepening my knowledge in AWS services and working on application modernization projects using containers, creating agile, standardized, and highly available environments.
-
-## 🔧 Tools & Technologies
-
-**Programming & Processing**: Python, SQL, Bash
-
-**Cloud & Data Platforms**:
-- **AWS**: S3, RDS/Aurora, Redshift, Athena, Lambda, EC2, ECS, ECR, EFS, CloudWatch, CloudFront
-
-**Orchestration & Transformation**: Airflow
-
-**Data Modeling & Storage**: PostgreSQL, Oracle, MySQL
-
-**DevOps & IaC**: Docker, Docker Compose, Git/GitHub, CI/CD, Terraform
-
----
+- **Programming Languages**: Python, SQL, Bash
+- **Cloud Platforms**: AWS
+- **AWS Services**: S3, Glue, Lambda, Redshift, EMR, Athena
+- **Databases & Data Warehouses**: PostgreSQL, MySQL, Oracle, Redshift
+- **Data Processing & Orchestration**: Databricks, Airflow, Apache Spark, PySpark
+- **Data Modeling & Transformation**: dbt, Delta Lake
+- **Data Quality & Metadata Management**: Great Expectations, Data Validation
+- **DevOps & Version Control**: Git, GitHub, Docker, Docker Compose
+- **Business Intelligence & Visualization**: Power BI, Tableau
+- **Methodologies**: Agile, Scrum
 
 Let's Make Connections. I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you're looking for a Data Engineer, let's chat!
 

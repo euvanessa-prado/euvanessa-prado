@@ -6,12 +6,10 @@ Hello there! I'm a data engineer dedicated to transforming complex data into act
 - **Cloud Platforms**: AWS
 - **AWS Services**: S3, Glue, Lambda, Redshift, EMR, Athena
 - **Databases & Data Warehouses**: PostgreSQL, MySQL, Oracle, Redshift
-- **Data Processing & Orchestration**: Databricks, Airflow, Apache Spark, PySpark
+- **Data Processing & Orchestration**: Databricks, Airflow
 - **Data Modeling & Transformation**: dbt, Delta Lake
-- **Data Quality & Metadata Management**: Great Expectations, Data Validation
 - **DevOps & Version Control**: Git, GitHub, Docker, Docker Compose
-- **Business Intelligence & Visualization**: Power BI, Tableau
-- **Methodologies**: Agile, Scrum
+- **Business Intelligence & Visualization**: Power BI, Qlik
 
 Let's Make Connections. I'm eager to contribute my technical expertise to a team that's all about progress and innovation. If you're looking for a Data Engineer, let's chat!
 

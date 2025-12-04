@@ -1,4 +1,4 @@
-# Data Engineer | AWS  | ETL/ELT 
+# Data Engineer | AWS & Cloud Specialist | ETL/ELT Expert
 
 Hello there! I'm a data engineer dedicated to transforming complex data into actionable insights. With a focus on AWS services and ETL/ELT processes, I build robust data pipelines that power intelligent decision-making.
 
@@ -6,7 +6,7 @@ Hello there! I'm a data engineer dedicated to transforming complex data into act
 - **Cloud Platforms**: AWS
 - **AWS Services**: S3, Glue, Lambda, Redshift, EMR, Athena
 - **Databases & Data Warehouses**: PostgreSQL, MySQL, Oracle, Redshift
-- **Data Orchestration**:  Airflow
+- **Data Processing & Orchestration**: Databricks, Airflow, Apache Spark, PySpark
 - **Data Modeling & Transformation**: dbt, Delta Lake
 - **Data Quality & Metadata Management**: Great Expectations, Data Validation
 - **DevOps & Version Control**: Git, GitHub, Docker, Docker Compose
@@ -41,7 +41,7 @@ Let's Make Connections. I'm eager to contribute my technical expertise to a team
 
 ---
 
-## � GditHub Stats
+## GitHub Stats
 
 <div align="center">
   

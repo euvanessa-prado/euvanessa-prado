@@ -40,18 +40,6 @@ Let's Make Connections. I'm eager to contribute my technical expertise to a team
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  
-![Vanessa's GitHub stats](https://github-readme-stats.vercel.app/api?username=euvanessa-prado&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euvanessa-prado&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=euvanessa-prado&color=green&style=flat-square)
